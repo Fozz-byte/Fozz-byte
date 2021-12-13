@@ -1,5 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Simon</h1>
 <h3 align="center">A passionate designer/developer from the United Kingdom 👨🏻‍💻🚀</h3>
+<br>
 
 <p>I have recently completed the 10-week web development coding bootcamp at Le Wagon London.</p>
 <p>I've learnt HTML, CSS, Bootstrap, JavaScript ES6, SQL, git, GitHub, Heroku and Ruby on Rails. Our project team designed, implemented and shipped to production a clone of AirBnB and a Rails prototype. You can check out the latter here: https://www.phasebook.me/. </p>
