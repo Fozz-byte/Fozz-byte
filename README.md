@@ -6,11 +6,11 @@
 <p>I've learnt HTML, CSS, Bootstrap, JavaScript ES6, SQL, git, GitHub, Heroku and Ruby on Rails. Our project team designed, implemented and shipped to production a clone of AirBnB and a Rails prototype. You can check out the latter here: https://www.phasebook.me/. </p>
 
 
-- 🌱 I’m currently learning **React, Redux, and Swift**
+- 🌱 I’m currently learning **React, Redux, and Swift.**
 
 - 👨‍💻 All of my projects are available here: [https://github.com/Fozz-byte?tab=repositories](https://github.com/Fozz-byte?tab=repositories)
 
-- 💬 Ask me anything **you want to know. I'll see if I can answer it! ;)**
+- 💬 Ask me anything **you want to know and I'll see if I can answer it! ;)**
 
 - 📫 You can reach me via: **simonfos74@gmail.com**
 
