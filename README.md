@@ -1,13 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Simon</h1>
-<h3 align="center">Junior Software Engineer 👨🏻‍💻🚀</h3>
-<h4 align="center">At Storefront</h4>
+
 <br>
-
-- 🌱 I’m currently learning **React, Redux, NextJS and Typescript.**
-
-- 💬 Ask me anything **you want to know and I'll see if I can answer it! ;)**
-
-- 📫 You can reach me via: **simonfos74@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
